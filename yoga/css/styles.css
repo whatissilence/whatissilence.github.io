@@ -19,6 +19,7 @@ html {
 
 body {
   font-family: 'Roboto', sans-serif;
+  font-weight: 300;
   color: #434455;
   background-color: #ffffff;
   font-size: 16px;
@@ -82,7 +83,6 @@ img {
 }
 
 .header_menu {
-  font-family: 'Arimo', sans-serif;
   padding-left: 0;
   display: flex;
   gap: 40px;
@@ -185,7 +185,7 @@ img {
 .hero_section_one,
 .hero_section_span {
   font-family: 'Arimo', sans-serif;
-  font-size: 40px;
+  font-size: 36px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
@@ -229,7 +229,7 @@ img {
 
 .project_mission_text {
   font-family: 'Arimo', sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 48px;
    color: #39a680;
   position: relative;
@@ -336,7 +336,7 @@ img {
 }
 
 .direction_title {
-  font-weight: 700;
+  font-weight: 500;
   font-size: 26px;
   line-height: 1.2;
   letter-spacing: 00.02em;
@@ -436,7 +436,7 @@ img {
 }
 
 .h_three_portfolio {
-  font-weight: 500;
+  font-weight: 400;
   font-size: 24px;
   line-height: 1.2;
   letter-spacing: 0.02em;
