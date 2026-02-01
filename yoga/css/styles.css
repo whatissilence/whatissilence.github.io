@@ -255,7 +255,7 @@ img {
 }
 
 .project_mission_text {
-  font-size: 56px;
+  font-size: 48px;
    color: #39a680;
   /*color: #4ac99d;*/
   position: relative;
@@ -380,6 +380,7 @@ img {
   color: #2e2f42;
   margin-bottom: 8px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .p_description_company {
@@ -423,7 +424,7 @@ img {
 
 
 .section_three_our_portfolio {
-  padding: 120px 0;
+  padding: 120px 0 50px;
 }
 
 .section_three_our_portfolio {
@@ -460,7 +461,7 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
   text-align: start;
-  height: 305px;
+  height: 310px;
 }
 
 .h_three_portfolio {
@@ -477,7 +478,7 @@ img {
   color: #39a680;
   position: absolute;
   bottom: 0;
-  font-size: 20px;
+  font-size: 25px;
 }
 
 main {
@@ -625,6 +626,7 @@ input {
 
 .contacts address {
   text-align: center;
+  font-size: 22px;
 }
 
 
