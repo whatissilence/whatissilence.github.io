@@ -99,6 +99,7 @@ img {
   flex-grow: 1;
   justify-content: flex-start;
   margin: auto 0;
+  text-transform: uppercase;
 }
 
 .nav_logo_link {
@@ -127,7 +128,7 @@ img {
 .nav_header_link {
   display: inline-block;
   color: #39a680;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -363,7 +364,7 @@ img {
 
 .direction_title {
   font-weight: 700;
-  font-size: 28px;
+  font-size: 26px;
   line-height: 1.2;
   letter-spacing: 00.02em;
   color: #093644;
@@ -459,7 +460,7 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
   text-align: start;
-  height: 300px;
+  height: 305px;
 }
 
 .h_three_portfolio {
@@ -476,6 +477,7 @@ img {
   color: #39a680;
   position: absolute;
   bottom: 0;
+  font-size: 20px;
 }
 
 main {
@@ -891,7 +893,6 @@ input {
     display: flex;
     padding-top: 0;
     padding-bottom: 40px;
-    font-size: 36px;
     font-weight: 700;
     line-height: 1.111;
     letter-spacing: 0.02px;
@@ -973,7 +974,7 @@ input {
 
   .nav_header_link {
     padding: 24px 0;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
   }
 
@@ -1015,7 +1016,7 @@ input {
   }
 
   .direction_title {
-    font-size: 27px;
+    font-size: 26px;
     font-style: normal;
     line-height: 1.111;
     letter-spacing: 0.02px;
