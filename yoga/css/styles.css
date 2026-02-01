@@ -756,9 +756,13 @@ input {
     max-width: 288px;
   }
 
+  .description_our_portfolio {
+    height: 280px;
+  }
+
   .description_reports_2nd_all_ukrainian,
   .description_9th_International_сongress {
-    height: 270px;
+    height: 400px;
   }
 
   .health_first_text {
