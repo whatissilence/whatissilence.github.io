@@ -902,7 +902,7 @@ input {
     font-weight: 700;
     line-height: 1.111;
     letter-spacing: 0.02px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     text-align: center;
   }
 
