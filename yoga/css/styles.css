@@ -1013,9 +1013,9 @@ input {
     letter-spacing: 0.02px;
   }
 
-  .project_mission_text::after {
-    display: none;
-  }
+  /*.project_mission_text::after {*/
+  /*  display: none;*/
+  /*}*/
 
   .core_values_text::after {
     width: 50%;
