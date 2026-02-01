@@ -679,7 +679,7 @@ input {
   .project_mission_text {
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 36px;
+    font-size: 34px;
   }
 
   .project_mission_text::after {
