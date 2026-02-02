@@ -495,6 +495,7 @@ main {
   flex-direction: column;
   padding-block: 10px;
   font-family: Roboto, sans-serif;
+  font-weight: 400;
 }
 
 .f_social_text {
