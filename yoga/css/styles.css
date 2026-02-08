@@ -187,7 +187,7 @@ img {
   background-position: center;
   background-size: contain;
   /* MEDIA SCREEN MOBILE */
-  background-image: url(../images/bgi/logo-grey.svg);
+  background-image: url(../images/logo/logo-big.svg);
   z-index: -1;
 }
 
